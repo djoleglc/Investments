@@ -1,0 +1,6 @@
+TO DO 
+
+- adding point a), b), c) and comments to questions that require it 
+- link for google colab : https://colab.research.google.com/drive/1iTm1PkWWENVcaGzngsIBZ07_NRNDvf6R?usp=sharing
+- finish ex4 
+
